@@ -7,7 +7,6 @@ My journey began in high school with a four-year software engineering course. Th
 
 Inspired by the dedication and passion I see in the tech community, I continuously strive to grow, build confidence, and make meaningful contributions. Since then, I’ve worked on numerous projects, expanded my skills across various languages and frameworks, and gained valuable industry experience through internships, workshops, and events.
 
-
 ## 🛠️ Tech Stack
 ### Programming Languages:
 
