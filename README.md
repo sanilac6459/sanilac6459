@@ -47,7 +47,7 @@ My journey began in high school with a four-year software engineering course, wh
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanilac6459&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanilac6459&theme=dark&hide_border=false)
 
 ---
 
