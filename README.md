@@ -1,5 +1,5 @@
 # Hi there, welcome to my GitHub Profile! 👩🏽‍💻
-My name is Sanila Chowdhury, a Computer Science student at Hunter College with a minor in Mathematics. I'm an aspiring **software engineer** with an interest in **Cybersecurity** and **AI/ML**, dedicated to creating scalable and impactful solutions.
+My name is Sanila Chowdhury, a Computer Science student at Hunter College with a minor in Mathematics. I'm an aspiring **software engineer**, dedicated to creating scalable and impactful solutions.
 
 My journey began in high school with a four-year software engineering course, where I discovered my passion for programming and technology through coding challenges and personal projects. This experience has driven me to pursue a career in tech, turning my creativity and ideas into real-world applications that make a meaningful impact. I strive to keep exploring, grow both personally and professionally, and contribute to the innovations and milestones that are advancing this field.
 
