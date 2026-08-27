@@ -1,5 +1,5 @@
 # Hi there, welcome to my GitHub Profile! 👩🏽‍💻
-My name is Sanila Chowdhury, a Computer Science student at Hunter College with a minor in Mathematics. I'm an aspiring **software engineer**, dedicated to creating scalable and impactful solutions.
+My name is Sanila Chowdhury, a Computer Science student at Hunter College and an aspiring **software engineer**, dedicated to creating scalable and impactful solutions.
 
 My journey began in high school with a four-year software engineering course, where I discovered my passion for programming and technology through coding challenges and personal projects. This experience has driven me to pursue a career in tech, turning my creativity and ideas into real-world applications that make a meaningful impact. I strive to keep exploring, grow both personally and professionally, and contribute to the innovations and milestones that are advancing this field.
 
@@ -59,4 +59,6 @@ My journey began in high school with a four-year software engineering course, wh
 ## 📱 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanilachowdhury@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanilachowdhury)
+
+<img src="https://img.shields.io/badge/LinkedIn-230077B?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D"/>
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%B7Portfolio-D4BCB7?style=for-the-badge)](https://sanilaportfolio.vercel.app/)
