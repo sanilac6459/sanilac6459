@@ -1,0 +1,36 @@
+<svg viewBox="0 0 220 130" width="220" height="130" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <g id="cat">
+    <animateTransform attributeName="transform" type="translate"
+      values="60,140; 60,70; 60,70; 60,140" keyTimes="0;0.3;0.75;1"
+      dur="4s" repeatCount="indefinite"/>
+    <!-- ears -->
+    <rect x="10" y="0" width="10" height="10" fill="#0d0d0d"/>
+    <rect x="60" y="0" width="10" height="10" fill="#0d0d0d"/>
+    <rect x="10" y="10" width="60" height="10" fill="#0d0d0d"/>
+    <!-- head -->
+    <rect x="0" y="20" width="80" height="10" fill="#0d0d0d"/>
+    <rect x="0" y="30" width="80" height="10" fill="#0d0d0d"/>
+    <rect x="20" y="30" width="10" height="10" fill="#ffffff"/>
+    <rect x="50" y="30" width="10" height="10" fill="#ffffff"/>
+    <!-- chin / shoulders -->
+    <rect x="0" y="40" width="80" height="10" fill="#0d0d0d"/>
+    <rect x="0" y="50" width="80" height="10" fill="#0d0d0d"/>
+    <!-- waving paw -->
+    <g transform="translate(75,45)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate"
+          values="-10 0 0;25 0 0;-10 0 0" keyTimes="0;0.5;1"
+          dur="0.9s" repeatCount="indefinite"/>
+        <rect x="0" y="0" width="10" height="25" fill="#0d0d0d"/>
+      </g>
+    </g>
+  </g>
+  <!-- speech bubble -->
+  <g>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.35;0.7;1"
+      dur="4s" repeatCount="indefinite"/>
+    <rect x="95" y="8" width="70" height="34" rx="8" ry="8" fill="#ffffff" stroke="#0d0d0d" stroke-width="2"/>
+    <polygon points="95,30 85,40 100,38" fill="#ffffff" stroke="#0d0d0d" stroke-width="2"/>
+    <text x="130" y="31" font-family="monospace" font-size="16" font-weight="bold" fill="#0d0d0d" text-anchor="middle">Hi!</text>
+  </g>
+</svg>
