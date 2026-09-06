@@ -1,8 +1,5 @@
 # Hi there, welcome to my GitHub Profile! 👩🏽‍💻
 
-<img src="https://raw.githubusercontent.com/sanilac6459/sanilac6459/main/assets/cat-wave.svg" alt="waving cat" width="220"/>
-
-
 My name is Sanila Chowdhury, a Computer Science student at Hunter College and an aspiring **software engineer**, dedicated to creating scalable and impactful solutions.
 
 My journey began in high school with a four-year software engineering course, where I discovered my passion for programming and technology through coding challenges and personal projects. This experience has driven me to pursue a career in tech, turning my creativity and ideas into real-world applications that make a meaningful impact. I strive to keep exploring, grow both personally and professionally, and contribute to the innovations and milestones that are advancing this field.
