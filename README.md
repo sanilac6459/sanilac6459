@@ -58,8 +58,6 @@ My journey began in high school with a four-year software engineering course, wh
 ---
 
 ## 📱 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanilachowdhury@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanilachowdhury)
-<a href="https://sanilaportfolio.vercel.app/">
-  <img src="./portfolio-banner.png" alt="Portfolio" height="38">
-</a>
+#### 📧 [Gmail](mailto:sanilachowdhury@gmail.com)
+#### 💼 [LinkedIn](https://www.linkedin.com/in/sanilachowdhury/)
+#### 🌐 [Portfolio](https://sanilaportfolio.vercel.app/)
