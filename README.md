@@ -57,6 +57,15 @@ My journey began in high school with a four-year software engineering course, wh
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanilac6459&show_icons=true&count_private=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanilac6459&layout=compact&theme=transparent" />
+</p>
+
+---
+
 ## 📱 Connect with Me
 #### 📧 [Gmail](mailto:sanilachowdhury@gmail.com)
 #### 💼 [LinkedIn](https://www.linkedin.com/in/sanilachowdhury/)
